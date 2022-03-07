@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Junior\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\ws-dsmovie\.metadata\.plugins\org.eclipse.jdt.core

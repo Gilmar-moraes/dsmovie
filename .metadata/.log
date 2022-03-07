@@ -537,3 +537,15 @@ java.nio.file.NoSuchFileException: C:\Users\Junior\Downloads\lombok.jar
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 11:16:29.206
 !MESSAGE executing callback sts4.classpath.ESxdwsWy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 12:07:36.619
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ESxdwsWy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 12:07:36.624
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ESxdwsWy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 12:07:36.625
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-07 12:07:36.630
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ESxdwsWy => OK
